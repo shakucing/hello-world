@@ -1,4 +1,4 @@
 # hello-world
-Fail untuk belajar cara-cara mereka repositori
+Fail untuk belajar
 
 Cubaan 1,2,3
